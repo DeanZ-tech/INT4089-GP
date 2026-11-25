@@ -1,0 +1,337 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 140,
+    "sha256": "d8eee5ee3c2af19f2a473415046af5df72fc45169554aa91787b43791fb44204"
+  },
+  {
+    "path": "PROTOCOL.md",
+    "bytes": 6930,
+    "sha256": "cd8ee96c00a3723d39d8b7b6f52451b67a7d6689eb4a747961e671d855712b88"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5425,
+    "sha256": "f3d1377694aa9ba54c0b8da904017dfc35297fe173ca964452efaf6c96797a47"
+  },
+  {
+    "path": "arduino/SeatMonitorOLED_V2_3_JSONL/SeatMonitorOLED_V2_3_JSONL.ino",
+    "bytes": 16960,
+    "sha256": "6fafc293563b6e923d044075a75d50ba9fde5e6b134e69c9548e9542a6c833a0"
+  },
+  {
+    "path": "backend/conftest.py",
+    "bytes": 425,
+    "sha256": "363f114619917568080e4107481abf1f5b16d7ad94febd24bf666ce2e295a577"
+  },
+  {
+    "path": "backend/main.py",
+    "bytes": 22280,
+    "sha256": "eee5188502fa5fdb787fe095eab14ebb154974e238d921a28ec004376b9ae345"
+  },
+  {
+    "path": "backend/requirements.txt",
+    "bytes": 62,
+    "sha256": "da59f524cd2960e9fba98ea448325d46efc863315e453fd2b77b3444f8b4bfed"
+  },
+  {
+    "path": "backend/serial_smoke_test.py",
+    "bytes": 1681,
+    "sha256": "3af72526bf7d549fdc95e78930ddd7805b78219d7d2b225d35ac24bd31f501b3"
+  },
+  {
+    "path": "backend/simulation.py",
+    "bytes": 5936,
+    "sha256": "9fe0c2e00fb7da3f5c77bc6980eeb5a59d320b40084dda179a9c1fd5af8d76ab"
+  },
+  {
+    "path": "backend/test_audit.py",
+    "bytes": 761,
+    "sha256": "a0258348d18292ffa6564c422018e9d7ed886eb20a836a8e3b4bcf43c7f191bb"
+  },
+  {
+    "path": "backend/test_protocol.py",
+    "bytes": 1991,
+    "sha256": "b9abc1e06ae5c26dcafb15a75f8272cbba76befaee465fcfb322889d191d0220"
+  },
+  {
+    "path": "backend/test_world_v2.py",
+    "bytes": 4929,
+    "sha256": "554a6b1016de09cfbc07597a3551a7f914933a94331324f33d12a9890dd8f9a4"
+  },
+  {
+    "path": "docs/Arduino_Libraries.md",
+    "bytes": 931,
+    "sha256": "c41cb5113f03dc868a657ca89d33bf950eaf32de78504b308e01794d353da24e"
+  },
+  {
+    "path": "docs/Image_Gallery.md",
+    "bytes": 1747,
+    "sha256": "09abc13826ad6c4d9b7a47973bfd24d7ea1b0aa5b20e2fd4027fcba84ec6edba"
+  },
+  {
+    "path": "docs/SeatSense_User_Manual.pdf",
+    "bytes": 21629106,
+    "sha256": "fe7e3cab3df0e2ee3f65bd8a405ba8beea8eeca2bc366449d0d30809fb222cd2"
+  },
+  {
+    "path": "frontend/index.html",
+    "bytes": 346,
+    "sha256": "0f99f068948c3baad8528f3b00749e12873e0b5312ef7c7a60b161cf86645c7b"
+  },
+  {
+    "path": "frontend/package-lock.json",
+    "bytes": 60596,
+    "sha256": "e1e000bac3c4d36b4a0ca0696b4fb4ac91bb8d2db8d13e2e341b9a8201451ac1"
+  },
+  {
+    "path": "frontend/package.json",
+    "bytes": 405,
+    "sha256": "ce67c0dff07f7060c455f8678a1d3a646423ffafbb17e46ae0e7088a52b6aead"
+  },
+  {
+    "path": "frontend/src/App.jsx",
+    "bytes": 27157,
+    "sha256": "bf0cd63b00e2ad8a76af1e7e8409b6313bcd252c47316901a0ca952f0cf3d203"
+  },
+  {
+    "path": "frontend/src/main.jsx",
+    "bytes": 187,
+    "sha256": "3d73feae7a88344f4c9260a149ce0d50e00c7390232f566ec761171d747add79"
+  },
+  {
+    "path": "frontend/src/style.css",
+    "bytes": 21744,
+    "sha256": "4e2ffd2adc840151f0f38051754cada93de6b85b361987091f1fdcb0a3ad2db3"
+  },
+  {
+    "path": "frontend/vite.config.js",
+    "bytes": 298,
+    "sha256": "6df684563620982bd18116963b947e8e338b27a8a10bb49965ba378aed2094ea"
+  },
+  {
+    "path": "hardware/3d-design/README.md",
+    "bytes": 999,
+    "sha256": "1f7e1a0dd9035d741b76f8a0602957ff0e963c0d108415a70556d3b84bdba244"
+  },
+  {
+    "path": "hardware/3d-design/chair_model.scad",
+    "bytes": 1840,
+    "sha256": "6153e324436720f1588fcf8cc4d31cfc649e159c8242765fc6169c67dcf4d59e"
+  },
+  {
+    "path": "hardware/3d-design/chair_model.stl",
+    "bytes": 48943,
+    "sha256": "c274560c0db45f226c32f4f074ab86e7c4e1d09edc0bc7686957f5e2f0831088"
+  },
+  {
+    "path": "hardware/3d-design/chair_preview.png",
+    "bytes": 10713,
+    "sha256": "615c51dd676560bfc946785a4d1b46454b5ddde526b86dc83fa417a8bc0eb1a4"
+  },
+  {
+    "path": "hardware/3d-design/preview.png",
+    "bytes": 51083,
+    "sha256": "81d6a32381871ec1a9531ab37c69b39662ef8ea9b4a68bf16a67105676236da7"
+  },
+  {
+    "path": "hardware/3d-design/table_model.scad",
+    "bytes": 1660,
+    "sha256": "b250c7dc47e48c26dfedecfbf117bc3ed2de5fda5dbf6d26941964a7dd6efa1f"
+  },
+  {
+    "path": "hardware/3d-design/table_model.stl",
+    "bytes": 48420,
+    "sha256": "1ecfd0b908c87e7873b6d96ab6195ac19defcb682268920a8c3690a48b27b876"
+  },
+  {
+    "path": "hardware/3d-design/table_preview.png",
+    "bytes": 8619,
+    "sha256": "ae88729b37450cc3828a20c744fa894ec979a3207964cd89700bba663ce83274"
+  },
+  {
+    "path": "hardware/README.md",
+    "bytes": 2906,
+    "sha256": "82c4f1cd4462c580a86d4b36a7b42ed81ef63c86b2cab84df573d87fa71dcdf5"
+  },
+  {
+    "path": "images/assembly/distance-module-pins.png",
+    "bytes": 212514,
+    "sha256": "038f93496aa2f94b7334207e6190c28a929507dc7c671151864adc9aff89c836"
+  },
+  {
+    "path": "images/assembly/distance-module-wiring.png",
+    "bytes": 300165,
+    "sha256": "952c8d2b417f589f7c4f7bf9193f306cc99d570e4b0f042de3af45bfd09d9585"
+  },
+  {
+    "path": "images/assembly/oled-interface.png",
+    "bytes": 119016,
+    "sha256": "f948bfcb1d4bcbec45e67812c66769daa419fd8f97c07f1a29f478e256cf72a2"
+  },
+  {
+    "path": "images/assembly/oled-powered.png",
+    "bytes": 311009,
+    "sha256": "a787373b58898276b5b88259399ecbaa7c31695ae848a7adad302966ba9caaed"
+  },
+  {
+    "path": "images/assembly/oled-wiring.png",
+    "bytes": 288071,
+    "sha256": "04c8465ceafa564d061419bf69602576a5b14f1cc7b519f30947a3e817d73de9"
+  },
+  {
+    "path": "images/assembly/pressure-module-closeup.png",
+    "bytes": 401190,
+    "sha256": "3b8cb15ed560b529c5fc10517513f25bb8c7a546fea01050edec7e4ef46fd662"
+  },
+  {
+    "path": "images/assembly/pressure-module-wiring.png",
+    "bytes": 267125,
+    "sha256": "2851c7ff9398c2d992f4b519551dfabead6087fc30ca9b5f7a4e4c947e368103"
+  },
+  {
+    "path": "images/assembly/prototype-front.png",
+    "bytes": 597499,
+    "sha256": "98a97e2dbf1a0189a266077629644527bcfae586b0b1a81f1808e4b37e21e893"
+  },
+  {
+    "path": "images/assembly/prototype-side.png",
+    "bytes": 486295,
+    "sha256": "a787b59b84f4afcc3cb9f0c77f532ad38f8e98a75290e8848a772931178f62e0"
+  },
+  {
+    "path": "images/assembly/seat-mat-connection.png",
+    "bytes": 338592,
+    "sha256": "1371b04cc140297ba1a6484dc0d42db029a2fe59b23481843d652c6411da0929"
+  },
+  {
+    "path": "images/branding/seatsense-logo.png",
+    "bytes": 799009,
+    "sha256": "4629331e9b441dbe6edd84b0b62a2deb7691e88314d7159276daf6e5ccb66c1d"
+  },
+  {
+    "path": "images/components/arduino-uno-breadboard.png",
+    "bytes": 320897,
+    "sha256": "3ce576777dff1c60979103decce80e84f77bf59a1619381ba1006687cbaed387"
+  },
+  {
+    "path": "images/components/jumper-wires.png",
+    "bytes": 548857,
+    "sha256": "0fe82a7ce56070ca1e83342c3bb1f234d03c463ac73df17713d8e654a7d42ec7"
+  },
+  {
+    "path": "images/components/oled-module.png",
+    "bytes": 119016,
+    "sha256": "f948bfcb1d4bcbec45e67812c66769daa419fd8f97c07f1a29f478e256cf72a2"
+  },
+  {
+    "path": "images/components/seat-pressure-mat.png",
+    "bytes": 839347,
+    "sha256": "b284142a21b4cf700a85c02a1ae9494ac74ff62d12fd339093ae31016dd1cebf"
+  },
+  {
+    "path": "images/components/tray-pressure-module.png",
+    "bytes": 747922,
+    "sha256": "4e5def7eb416b50b1ec6da05db4f260c950780edbc89fd9a1cf34690a6d6f0fa"
+  },
+  {
+    "path": "images/components/vl53l0x-module.png",
+    "bytes": 88776,
+    "sha256": "fe8903c43ed314f0155e50a5622a6275a31779a1620d2f21901e34ab5ab55892"
+  },
+  {
+    "path": "images/dashboard/alerts.png",
+    "bytes": 37187,
+    "sha256": "a03d1b4b84735fc11b4b3dadc44afca9ad444b5216d76f3b314ef5d44cffcf00"
+  },
+  {
+    "path": "images/dashboard/analytics.png",
+    "bytes": 46105,
+    "sha256": "d89cb0e23a05af21fc23438dce640a3422014caf633d211ab3d313a7311b5fd3"
+  },
+  {
+    "path": "images/dashboard/available-card.png",
+    "bytes": 62458,
+    "sha256": "dd8a7af10f500452ac360ad43e0f4214786730bb25968182ffa9972ee08af65a"
+  },
+  {
+    "path": "images/dashboard/awaiting-admin-release-card.png",
+    "bytes": 77407,
+    "sha256": "5b5fdb2ca6a404d728b61a6a1f696f73e67424788f87ccf9a2ecd23a85efe97e"
+  },
+  {
+    "path": "images/dashboard/floor-occupancy.png",
+    "bytes": 32541,
+    "sha256": "bf653c8d32ba4f8f7f1a0e0474622bd3ae536f625bb5d15789332cd1acae1e2b"
+  },
+  {
+    "path": "images/dashboard/occupied-card.png",
+    "bytes": 65129,
+    "sha256": "f518d80849e00f597612547297fbf1308eadcd880686705934295777baf52e76"
+  },
+  {
+    "path": "images/dashboard/seat-map.png",
+    "bytes": 75978,
+    "sha256": "eb225f214932aa690e4415bf848358075c64275acf73da33c217e3ece5a18467"
+  },
+  {
+    "path": "images/dashboard/temporarily-away-card.png",
+    "bytes": 71481,
+    "sha256": "d4083403a8600ae668d16d6239ee4a0692174fa442f59f9e45f3e1693050baf9"
+  },
+  {
+    "path": "images/oled/available.png",
+    "bytes": 41314,
+    "sha256": "a7a0e4ff8d29ba0b3a3afddc0b9a439001ff9e9afe0a32be16e8c2126de666e2"
+  },
+  {
+    "path": "images/oled/awaiting-admin-release.png",
+    "bytes": 39465,
+    "sha256": "296107b9eb1426175ed891843357edbd5f50be0b1be3c5d320a4f7d0c91eae2e"
+  },
+  {
+    "path": "images/oled/occupied.png",
+    "bytes": 194498,
+    "sha256": "defba947085ca452961cfc09432b1d118a936500ea84859a17d0c0e99aa981cb"
+  },
+  {
+    "path": "images/oled/temporarily-away.png",
+    "bytes": 33520,
+    "sha256": "9f1e7b6739dbce5487e472c0ba4ee437ea6b720867c12440f0f147f5b5aa4a1f"
+  },
+  {
+    "path": "images/wiring/overall-wiring-01.png",
+    "bytes": 2199601,
+    "sha256": "7e6a968a7021a8357460c002857899f75b53d0287014267b2359b2577fc263bd"
+  },
+  {
+    "path": "images/wiring/overall-wiring-02.png",
+    "bytes": 2023596,
+    "sha256": "071756a16ca6a27ef256d8217bcd682272e0baa8ec3d66c7c14752083fd11359"
+  },
+  {
+    "path": "images/wiring/shared-i2c-bench.png",
+    "bytes": 291478,
+    "sha256": "c819c483f955e82b186bb577ed696e02730643c35a5487aca5fec29228d9318d"
+  },
+  {
+    "path": "images/wiring/shared-power-bench.png",
+    "bytes": 308931,
+    "sha256": "03fb59a7955fb36bebaeb89f6bef2cd92d2ad598fef620d293feea0e6d4f76a8"
+  },
+  {
+    "path": "images/wiring/signal-connections.png",
+    "bytes": 35902,
+    "sha256": "6f31f34e8a9ebbe2e70ee64f02ecbd0102ab09836ff15bbe18b6d3e30f4d66bc"
+  },
+  {
+    "path": "images/wiring/system-architecture.png",
+    "bytes": 27477,
+    "sha256": "25b4840b141e59aae830cbd3f8c700b30b52654170db496896aca1eb69000187"
+  },
+  {
+    "path": "requirements-dev.txt",
+    "bytes": 57,
+    "sha256": "8086cbd15e3340609d3d3acf4a891fa28b06b60f0c46587abdd880ad0dd907bb"
+  }
+]
