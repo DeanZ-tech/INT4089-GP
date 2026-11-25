@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 5425,
-    "sha256": "f3d1377694aa9ba54c0b8da904017dfc35297fe173ca964452efaf6c96797a47"
+    "bytes": 5436,
+    "sha256": "5711db99455314ce18969fcd717595b3612fd9444dee221489c2678ad7043c20"
   },
   {
     "path": "arduino/SeatMonitorOLED_V2_3_JSONL/SeatMonitorOLED_V2_3_JSONL.ino",
@@ -333,5 +333,10 @@
     "path": "requirements-dev.txt",
     "bytes": 57,
     "sha256": "8086cbd15e3340609d3d3acf4a891fa28b06b60f0c46587abdd880ad0dd907bb"
+  },
+  {
+    "path": "videos/INT4089_video.mp4",
+    "bytes": 14199593,
+    "sha256": "70a77631a6546414368aab9c9dcc31c63f293e464680764d1a737ff258eab29e"
   }
 ]

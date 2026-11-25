@@ -20,7 +20,7 @@ The dashboard represents 60 seats across three floors: **one hardware seat (A01,
 | Editable 3D design | [Table SCAD](hardware/3d-design/table_model.scad), [chair SCAD](hardware/3d-design/chair_model.scad), [dimensions](hardware/3d-design/README.md) |
 | Component and assembly photographs | [Hardware guide](hardware/README.md), [components](images/components), [assembly](images/assembly) |
 | Dashboard and OLED screenshots | [Illustrated gallery](docs/Image_Gallery.md) |
-| Video | No video is included in this submission. |
+| Video | [SeatSense project video](videos/INT4089_video.mp4) |
 
 The diagram shows signal connections; the bench photographs document assembly. Check module voltage markings and wire endpoints against the hardware guide. Printable design files are provided alongside the photographed prototype.
 
